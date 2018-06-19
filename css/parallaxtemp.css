@@ -321,6 +321,14 @@ h7 {
     margin-top: 3rem;
 }
 
+.big-background {
+    position:relative;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    transform: translate3d(0,0,0);
+    -webkit-transform: translate3d(0,0,0);
+}
 
 /* Slide 1 */
 #section-1 .big-background {background-image:url('../images/AppliLaQuete.jpg')}

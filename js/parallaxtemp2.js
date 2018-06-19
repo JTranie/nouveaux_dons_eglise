@@ -149,8 +149,10 @@ $(document).ready(function() {
         var divFourth = $('#section-4').position().top;
         var divFifth = $('#section-5').position().top;
         var divSixth = $('#section-6').position().top;
-        
-
+        var divSeventh = $('#section-7').position().top;
+        var divEighth = $('#section-8').position().top;
+        var divNinth = $('#section-9').position().top;
+    };
 
 
 
